@@ -2,7 +2,7 @@
   "name": "redux-persist-sensitive-storage",
   "version": "1.0.0",
   "description": "redux-persist storage engine for react-native-sensitive-info",
-  "main": "index.js",
+  "main": "index.ts",
   "files": [
     "index.ts",
     "index.d.ts"
